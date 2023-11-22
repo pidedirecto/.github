@@ -1,4 +1,4 @@
 ### Before sending PR for review confirm that
-- [ ] CICD checks passes
+- [ ] self review of PR is made and conventions are checked (check "Files changed" tab in PR) 
 - [ ] all merge conflict are solved
-- [ ] self review of PR is made
+- [ ] CICD checks passes
