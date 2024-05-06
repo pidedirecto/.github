@@ -8,10 +8,10 @@ changelog:
         - hotfix
     - title: Indexes 🧭
       labels: 
-        - has_index
+        - has index
     - title: Patches 🩹
       labels: 
-        - has_patch
+        - has patch
     - title: Other Changes
       labels:
         - "*"
