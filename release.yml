@@ -12,6 +12,6 @@ changelog:
     - title: Patches 🩹
       labels: 
         - has patch
-    - title: Other Changes
+    - title: Other Changes 🌮
       labels:
-        - "*"
+        - '*'
